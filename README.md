@@ -1,1 +1,3 @@
-# code-pub
+# TribalCoder public code repository
+
+Repository to share public code
